@@ -1,7 +1,7 @@
 
 const style ={
     main: {
-        backgroundColor: "grey",
+        backgroundColor: "#222831",
         height: "7vh"
     }
 }

@@ -1,0 +1,31 @@
+    .head {
+        background-color: #222831;
+        height: 7vh;
+        display: flex;
+    }
+
+    .brandDiv {
+        width: 20%;
+    }
+
+    .brand {
+        display: flex;
+        list-style: none;
+    }
+
+
+    .listDiv {
+        width: 80%
+    }
+
+    .list {
+        list-style: none;
+        display: flex;
+        justify-content: end;
+    }
+
+    .links {
+        padding-left: 20px;
+        padding-right: 10px;
+        color: grey;
+    }
